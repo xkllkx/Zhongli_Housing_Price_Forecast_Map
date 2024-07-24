@@ -11,3 +11,6 @@
 | superbule1	| 921273	| 60973 | 60893	| 23.37 |
 
 [demo](https://github.com/xkllkx/Zhongli_Housing_Price_Forecast_Map/blob/main/loan-prediction-web/templates/big_map_try.html)   
+
+</br>https://github.com/aisinvon/aisinvon.github.io/blob/master/index.html
+</br>
