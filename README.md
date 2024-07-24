@@ -38,6 +38,25 @@ When using the user interface, the user will be asked to input information such 
 ## [Housing_Price Map HTML Demo](https://xkllkx.github.io/Zhongli_Housing_Price_Forecast_Map/loan-prediction-web/templates/big_map_try.html)
 In addition to displaying real transaction data on the map, the application also includes features such as price color maps, heat maps, neighborhood boundaries, and distance measurements. The map functionalities are handled using **folium**, and the entire user web interface is connected via **Flask**.
 
+### Real transaction data
+<img src="https://github.com/xkllkx/Zhongli_Housing_Price_Forecast_Map/blob/main/png/real%20transaction%20data.png" width="60%" height="60%"><img src="https://github.com/xkllkx/Zhongli_Housing_Price_Forecast_Map/blob/main/png/real%20transaction%20data%20(2).png" width="40%" height="40%">
+
+### Price color maps
+<img src="https://github.com/xkllkx/Zhongli_Housing_Price_Forecast_Map/blob/main/png/price%20color%20maps.png" width="45%" height="45%">
+
+### neighborhood boundaries
+<img src="https://github.com/xkllkx/Zhongli_Housing_Price_Forecast_Map/blob/main/png/neighborhood%20boundaries.png">
+
+### Heat maps
+<img src="https://github.com/xkllkx/Zhongli_Housing_Price_Forecast_Map/blob/main/png/heat%20maps.png">
+
+### Distance measurements
+<img src="https://github.com/xkllkx/Zhongli_Housing_Price_Forecast_Map/blob/main/png/distance%20measurements.png" width="70%" height="70%">
+
+### map.com.tw scraping
+<img src="https://github.com/xkllkx/Zhongli_Housing_Price_Forecast_Map/blob/main/png/map.com.tw.png" width="45%" height="45%">
+<img src="https://github.com/xkllkx/Zhongli_Housing_Price_Forecast_Map/blob/main/png/map.com.tw%20opencv.png" width="45%" height="45%">
+
 # How to use this repo
 ## Prerequisites
 ### Installation
