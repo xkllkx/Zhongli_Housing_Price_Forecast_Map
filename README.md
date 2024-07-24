@@ -11,4 +11,4 @@
 | superbule1	| 765102	| 52750 | 52749	| 28.62 |
 | superbule1	| 921273	| 60973 | 60893	| 23.37 |
 
-<img src="https://github.com/xkllkx/Zhongli_Housing_Price_Forecast_Map/blob/main/loan-prediction-web/templates/big_map_try.html" width="55%" height="55%">
+<svg src="https://github.com/xkllkx/Zhongli_Housing_Price_Forecast_Map/blob/main/loan-prediction-web/templates/big_map_try.html" width="55%" height="55%">
