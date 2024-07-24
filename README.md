@@ -1,5 +1,4 @@
-# Taoyuan-City_Zhongli-District
-# Housing_Price_Forecast_Map
+# Taoyuan-City_Zhongli-District Housing_Price_Forecast_Map
 ## PA1：Fiduccia–Mattheyses algorithm (Partition)
 ### Goal： Minimum two groups of cut-size
 
@@ -11,4 +10,4 @@
 | superbule1	| 765102	| 52750 | 52749	| 28.62 |
 | superbule1	| 921273	| 60973 | 60893	| 23.37 |
 
-<svg src="https://github.com/xkllkx/Zhongli_Housing_Price_Forecast_Map/blob/main/loan-prediction-web/templates/big_map_try.html" width="55%" height="55%">
+[demo](https://github.com/xkllkx/Zhongli_Housing_Price_Forecast_Map/blob/main/loan-prediction-web/templates/big_map_try.html)   
