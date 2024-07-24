@@ -12,3 +12,5 @@
 
 [demo](https://xkllkx.github.io/Zhongli_Housing_Price_Forecast_Map/big_map_try.html) 
 
+https://github.com/xkllkx/xkllkx.github.io/blob/main/loan-prediction-web/templates/big_map_try.html
+
