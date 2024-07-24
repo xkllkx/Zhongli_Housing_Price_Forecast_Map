@@ -36,7 +36,7 @@ The machine learning model is built using **sklearn**, and the database used by 
 When using the user interface, the user will be asked to input information such as the address, land type, building type, and more. The corresponding data will be retrieved via web scraping and Google Maps API, and then fed into the model to generate a house price prediction.
 
 ## [Housing_Price Map HTML Demo](https://xkllkx.github.io/Zhongli_Housing_Price_Forecast_Map/loan-prediction-web/templates/big_map_try.html)
-In addition to displaying real transaction data on the map, the application also includes features such as price color maps, heat maps, and neighborhood boundaries using polygon measurements. The map functionalities are handled using **folium**, and the entire user web interface is connected via **Flask**.
+In addition to displaying real transaction data on the map, the application also includes features such as price color maps, heat maps, neighborhood boundaries, and distance measurements. The map functionalities are handled using **folium**, and the entire user web interface is connected via **Flask**.
 
 # How to use this repo
 ## Prerequisites
